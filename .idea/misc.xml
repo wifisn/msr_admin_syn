@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/msr-parent/pom.xml" />
         <option value="$PROJECT_DIR$/msr-common/pom.xml" />
         <option value="$PROJECT_DIR$/msr-edu/pom.xml" />
+        <option value="$PROJECT_DIR$/msr-ucenter/pom.xml" />
+        <option value="$PROJECT_DIR$/msr-statistics/pom.xml" />
       </list>
     </option>
   </component>

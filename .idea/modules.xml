@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/msr-common/msr-common.iml" filepath="$PROJECT_DIR$/msr-common/msr-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/msr-edu/msr-edu.iml" filepath="$PROJECT_DIR$/msr-edu/msr-edu.iml" />
       <module fileurl="file://$PROJECT_DIR$/msr-parent/msr-parent.iml" filepath="$PROJECT_DIR$/msr-parent/msr-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msr-statistics/msr-statistics.iml" filepath="$PROJECT_DIR$/msr-statistics/msr-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msr-ucenter/msr-ucenter.iml" filepath="$PROJECT_DIR$/msr-ucenter/msr-ucenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/msr_admin_syn.iml" filepath="$PROJECT_DIR$/.idea/msr_admin_syn.iml" />
     </modules>
   </component>
