@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/msr-statistics/msr-statistics.iml" filepath="$PROJECT_DIR$/msr-statistics/msr-statistics.iml" />
       <module fileurl="file://$PROJECT_DIR$/msr-ucenter/msr-ucenter.iml" filepath="$PROJECT_DIR$/msr-ucenter/msr-ucenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/msr_admin_syn.iml" filepath="$PROJECT_DIR$/.idea/msr_admin_syn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
     </modules>
   </component>
 </project>
